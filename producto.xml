@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>    
+<producto id="03">
+	<nombre>Frescasa</nombre>
+	<precio>500</precio>
+</producto>
+<producto id="01">
+	<nombre>Pvc</nombre>
+	<precio>200</precio>
+</producto>
+</productos>
